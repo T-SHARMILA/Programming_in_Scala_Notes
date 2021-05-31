@@ -1,0 +1,6 @@
+Scala- Scalable language, blend of object oriented and functional programming concepts in a statically typed language
+Can be run on JVM just like java
+It lets us to add new types as built-in types
+Akka - Scala API for "actor-based" concurrent programming
+Actors are concurrency abstractions that can be implemented on top of threads. They communicate by sending messages to each other. 
+An actor can perform two basic operations, message send and receive. The send operation,denoted by an exclamation point (!), sends a message to an actor.
