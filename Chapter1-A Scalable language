@@ -4,3 +4,22 @@ It lets us to add new types as built-in types
 Akka - Scala API for "actor-based" concurrent programming
 Actors are concurrency abstractions that can be implemented on top of threads. They communicate by sending messages to each other. 
 An actor can perform two basic operations, message send and receive. The send operation,denoted by an exclamation point (!), sends a message to an actor.
+
+WHY Scala?
+1. Statically typed language where it requires the specification of data types of variables and objects
+2. Fully object oriented infused with functional programming concepts
+3.
+
+Scala
+Consists of wrapper classes only unlike Java which consists of both primitive types and wrapper classes
+void types are Unit functions
+
+Functional programming
+1. First values are functions. it is like a primitive datatype found in other languages. we can use functions as literals and nested functions
+2. Immutable data structures are the cornerstones of functional languages.Scala has immutable lists, tuples, sets and maps
+3. Use of vars is imperative style whereas use of vals is functional style
+
+
+Lists contains values of same type only
+Tuples can have values of any type
+Sets and Maps have mutable and immutable variations
